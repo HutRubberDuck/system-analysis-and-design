@@ -1,0 +1,32 @@
+commit 9c328ca2a64ca83ad11895bdb09ab69a56e66660
+Author: Parham Khoshravesh <Parham0382@gmail.com>
+Date:   Mon Jan 24 20:55:45 2022 +0330
+
+    Removed all files that are in the .gitignore
+
+commit 9ece0a907eb4f5edecf1bf12d8bf74436e4fb25d
+Merge: 60ca2de 3c512bb
+Author: Parham Khoshravesh <61993604+ParhaMDeF@users.noreply.github.com>
+Date:   Mon Jan 24 20:51:26 2022 +0330
+
+    Merge pull request #1 from aminrasouli/patch-1
+    
+    Update README.md
+
+commit 3c512bb6051667b0a88c3b9b30c61dc419346ba9
+Author: Amin Rasouli <aminrasoli379@gmail.com>
+Date:   Mon Jan 24 09:17:24 2022 -0800
+
+    Update README.md
+
+commit 60ca2de582a47fcdd585d20b98f4da2d166dbb02
+Author: Parham Khoshravesh <Parham0382@gmail.com>
+Date:   Mon Jan 24 20:34:40 2022 +0330
+
+    gitignore file updated
+
+commit 159aba7cff065cc49c58619c81d70edd955917b7
+Author: Parham Khoshravesh <Parham0382@gmail.com>
+Date:   Mon Jan 24 20:28:36 2022 +0330
+
+    login screen created - ads screen working

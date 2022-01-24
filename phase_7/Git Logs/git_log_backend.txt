@@ -1,0 +1,215 @@
+commit 4b865bc4a167c3aa94bae7fe799a855d5442bee9
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Mon Jan 24 20:08:07 2022 +0330
+
+    Implement User Login With OTP
+
+commit dbbad265d507bee8add61aba4efbd8a2e4674800
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Mon Jan 24 18:20:21 2022 +0330
+
+    Implement Send SMS And Generate OTP With Kave Negar
+
+commit ac5564e54da73bef974f81d11f14530c8e67834a
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Mon Jan 24 04:28:24 2022 +0330
+
+    Add infos to ads router.
+
+commit 1843b68c2f9087bd04156295faa362e4aafeb8d3
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Mon Jan 24 03:34:37 2022 +0330
+
+    Add user router.
+
+commit 77a2717dd3c0cdc77a256eefb6c116fc0b27a067
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Mon Jan 24 02:00:16 2022 +0330
+
+    Add category, city and district router
+
+commit 44e90fe8659eea7eba53a0140a14631cc178d21f
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Sun Jan 23 03:04:10 2022 +0330
+
+    Fix some relationships in models.
+
+commit c61c9345d7daddd7ca5addb6e080b27d232b32fe
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Sun Jan 23 03:03:50 2022 +0330
+
+    Add printing database errors.
+
+commit 60c0e94a08322973af7ca3477e5b672d91f479c4
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Thu Jan 20 17:31:54 2022 +0330
+
+    Add Information ro README.md
+
+commit a3c35ef59ff8202e921d04dc0d580429ef06fc6e
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Thu Jan 20 17:18:27 2022 +0330
+
+    Some Improvment And Reformat Code
+
+commit 851a84643ebac8e2086ba0f3036a940414d6a2b8
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Thu Jan 20 17:13:30 2022 +0330
+
+    Improvment JWT Auth
+
+commit 342cc66eea4ef6323db6c6e510dc8ead019937d7
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Thu Jan 20 16:58:34 2022 +0330
+
+    Implement Infrastructure For JWT Auth
+
+commit 9987b8b401964a996c219ec13760d07ecba34c83
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Thu Jan 20 16:37:02 2022 +0330
+
+    Improvment Database Connection Module And Config And Seperate Main Router As Primary
+
+commit 977269fcece8372aaa1c251850152ad1155034b7
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Thu Jan 20 15:37:20 2022 +0330
+
+    Seperated Middleware And Fix Reload App problem And DB
+
+commit deb9c33760ea9b8e81df11025fe109e1a2f35889
+Merge: 9bab058 6163495
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Wed Jan 19 10:01:33 2022 +0330
+
+    Merge branch 'master' of github.com:HutRubberDuck/super-mini-divar
+
+commit 61634953a4421db184e21d9770c58f7a6f8f246c
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Wed Jan 19 04:46:16 2022 +0330
+
+    Add remaining models based on UML.
+
+commit d9139c55ddc5b77879e34755ee57cfa268b2b9c3
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Wed Jan 19 04:45:15 2022 +0330
+
+    Fix province router line separator. (convert CRLF to LF)
+
+commit 9bab058cd105aa99ca0d6804846b78fbc4db42ff
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Tue Jan 18 23:42:49 2022 +0330
+
+    add CORSMiddleware support
+
+commit b1efa2811d6aa22be24da7b00e8dbd7f4cb9026e
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Tue Jan 18 22:35:25 2022 +0330
+
+    added debug for realod uvicorn and docker compose
+
+commit fcdae559938695b1a7f08b2fe023d3c5bb66e1e4
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Tue Jan 18 22:04:40 2022 +0330
+
+    some function of jwt and added new env to docker compose
+
+commit fbd82785fc33beccab6029d08c203dd7c07d2ab5
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Tue Jan 18 21:26:47 2022 +0330
+
+    Added Settings Management by Environment With Decouple Package
+
+commit 7be24a3924445ddd88ba1a4a21f8cd80b6ed7024
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Tue Jan 18 10:21:36 2022 +0330
+
+    fix not creating a database table by changing src/main.py
+
+commit de9aa96c955c87e40383a621e676d0a84d204e91
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Tue Jan 18 00:21:44 2022 +0330
+
+    Fix main.py indent size.
+
+commit 072ae5419269ea3087b4352167171a92f3be6fd8
+Merge: d5b5180 3806e68
+Author: Behrad Ravanbod <36668681+ravanbod@users.noreply.github.com>
+Date:   Mon Jan 17 23:56:06 2022 +0330
+
+    Merge pull request #2 from HutRubberDuck/feature/new-structure
+    
+    change the structure of the projects and add router and database dependencies
+
+commit 3806e686a2db6b28ffd4036be4e24e397f450b14
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Mon Jan 17 23:41:28 2022 +0330
+
+    change editor config indent size and docker-compose the wrong port for Postgres
+
+commit 17df6c5c2384d0bc79a3526298d6b54e71762d2d
+Author: Amin Rasouli <me@aminrasouli.ir>
+Date:   Mon Jan 17 23:18:31 2022 +0330
+
+    change the structure of the projects and add router and database dependencies
+
+commit d5b5180058ff8c6002e1af4288c4c03e4df87a96
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Mon Jan 17 22:32:51 2022 +0330
+
+    Add restart: always to docker-compose file.
+
+commit c108e20d638e1b3a4b752d731a8f511c9637d7f7
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Thu Jan 13 20:10:48 2022 +0330
+
+    Add Jenkinsfile
+
+commit 1827f4233dbf2c9245edc69b3da1395771b26603
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Wed Jan 12 19:28:14 2022 +0330
+
+    Reformat models and main files.
+
+commit c4d6dc5378aaf2ea56df6e85b9b6aaa00848d528
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Wed Jan 12 19:26:57 2022 +0330
+
+    Edit .gitignore to handle .idea directory.
+
+commit 57b0410f0695a7bb3e2db963bc052e483c6cbbd1
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Wed Jan 12 19:26:09 2022 +0330
+
+    Add docs directory and UML image.
+
+commit 2c7ed5477baf4c1b6b9d46c64735ddca52cb1f56
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Fri Jan 7 03:23:05 2022 +0330
+
+    add city, district and province model.
+    add some routes to show provinces.
+    add fastapi.
+
+commit d3d697353d2232ec2d14cba44a41c99841332d3f
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Fri Jan 7 01:42:51 2022 +0330
+
+    add Dockerfile and docker-compose file and DB_URI env.
+
+commit 1fbabf48fdf2f077800cab2f1ab9bd7be9b57b53
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Thu Jan 6 23:40:37 2022 +0330
+
+    add sqlalchemy and an example model to project.
+
+commit 6bac8d612e6092333f55f1013e0c2cacfe4bdd30
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Thu Jan 6 16:59:31 2022 +0330
+
+    add .gitignore
+
+commit b99abbe9dc9b35b8dce6628f16612080cf5d3f2b
+Author: Behrad Ravanbod <99behi@gmail.com>
+Date:   Thu Jan 6 16:55:06 2022 +0330
+
+    Initial commit.
